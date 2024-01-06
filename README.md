@@ -1,14 +1,14 @@
-# Todo-List-On-Windows-Wallpaper
+# Sticker-On-Windows-Wallpaper
 
 ## 简介
 
-这是一个独特的桌面待办事项应用程序，它允许用户将待办事项直接显示在桌面壁纸上。这个应用采用Python编写，提供了一个基于Tkinter的GUI，使用户可以轻松编辑他们的待办事项，并且自动将更新后的待办事项显示在桌面背景上。
+这是一个独特的桌面待办事项应用程序，它允许用户将贴纸直接显示在桌面壁纸上。这个应用采用Python编写，提供了一个基于Tkinter的GUI，使用户可以轻松编辑他们的待办事项，并且自动将更新后的待办事项显示在桌面背景上。
 
 ## 功能
 
-在桌面壁纸上直观显示待办事项。
-通过简单的GUI编辑待办事项。
-自动更新桌面壁纸以反映最新的待办事项。
+在桌面壁纸上直观显示贴纸，比如待办事项。
+通过简单的GUI编辑贴纸内容。
+更新桌面壁纸以反映贴纸内容。
 
 ## 使用说明
 
@@ -21,18 +21,18 @@
 
 ## Introduction
 
-This is a unique desktop to-do application that allows users to display to-do items directly on their desktop wallpaper. Written in Python, this application provides a Tkinter-based GUI that allows users to easily edit their to-do items and automatically displays the updated to-do items on the desktop background.
+This is a unique desktop sticker application that allows users to display sticker items directly on their desktop wallpaper. Written in Python, this application provides a Tkinter-based GUI that allows users to easily edit their sticker items and automatically displays the updated sticker items on the desktop background.
 
 ## Function
 
-Visualize to-do items on your desktop wallpaper.
-Edit to-do items via simple GUI.
-Automatically update your desktop wallpaper to reflect your latest to-do items.
+Visualize sticker items on your desktop wallpaper.
+Edit sticker items via simple GUI.
+Automatically update your desktop wallpaper to reflect your latest sticker items.
 
 ## Instructions for use
 
 Unzip .zip file in release. Run main.exe.
-After launching the program, a GUI window will appear showing your to-do list. You can add or edit to-do items in this window. After you finish editing and save, the program will automatically update your desktop wallpaper to display your latest to-do list.
+After launching the program, a GUI window will appear showing your sticker list. You can add or edit sticker items in this window. After you finish editing and save, the program will automatically update your desktop wallpaper to display your latest sticker list.
 
 ## Known issues
 
