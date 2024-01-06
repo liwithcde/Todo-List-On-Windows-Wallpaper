@@ -1,4 +1,4 @@
-# Sticker-On-Windows-Wallpaper
+# Sticker-On-Windows-desktop-Wallpaper
 
 ## 简介
 
