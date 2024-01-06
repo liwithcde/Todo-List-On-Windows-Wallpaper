@@ -76,7 +76,7 @@ def add_todo_list_with_box(image_path, todos):
         draw.text((text_x, text_y), todo, fill="black", font=font)
         text_y += line_height
 
-    new_image_path = r"C:\Users\a1832\Pictures\bivi.jpg"
+    new_image_path = r"wall-sticker.jpg"
     img.save(new_image_path)
     return new_image_path
 
