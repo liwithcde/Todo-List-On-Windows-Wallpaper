@@ -12,7 +12,7 @@
 
 ## 使用说明
 
-解压release里面的zip文件，运行里面的bat
+解压release里面的zip文件，运行里面的exe
 启动程序后，将出现一个GUI窗口，显示你的待办事项列表。你可以在这个窗口中添加或编辑待办事项。完成编辑并保存后，程序将自动更新你的桌面壁纸，将最新的待办事项列表显示在上面。
 
 ## 已知问题
@@ -31,7 +31,7 @@ Automatically update your desktop wallpaper to reflect your latest sticker items
 
 ## Instructions for use
 
-Unzip .zip file in release. Run .bat file in it.
+Unzip .zip file in release. Run exe file in it.
 After launching the program, a GUI window will appear showing your sticker list. You can add or edit sticker items in this window. After you finish editing and save, the program will automatically update your desktop wallpaper to display your latest sticker list.
 
 ## Known issues
